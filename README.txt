@@ -2,7 +2,7 @@ Introduction
 ============
 
 This package registers an event handler that initialises permissions on the
-fly. To use it, simply include its ZCML:
+fly. To use it, simply include its ZCML::
 
     <include package="collective.autopermission" />
     
