@@ -1,7 +1,7 @@
 import Products
 from AccessControl.Permission import _registeredPermissions
 from AccessControl.Permission import pname
-from Globals import ApplicationDefaultPermissions
+from AccessControl.Permission import ApplicationDefaultPermissions 
 
 # This is borrowed from Products.CMFCore to avoid a dependency.
 
